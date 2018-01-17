@@ -194,14 +194,6 @@ Public Class JezCalculator
 
 
 
-    'Public Function add(ByVal a, ByVal b) As Integer
-
-
-    'Return a + b
-
-
-
-    'End Function
 
 
 
